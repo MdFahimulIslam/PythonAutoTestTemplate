@@ -1,0 +1,7 @@
+# pip requirements. To install use following: 
+# > pip install -e .
+# > conda develop .
+# If you want to use the source codes then put it in requirements.txt. 
+# If you want to run tests on source codes then put it in requirements_dev.txt
+
+requests==2.26.0

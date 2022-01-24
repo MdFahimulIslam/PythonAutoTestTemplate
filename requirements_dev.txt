@@ -1,0 +1,11 @@
+# pip requirements. To install use following: 
+# > pip install -r .\requirements_dev.txt
+# > conda install --file .\requirements_dev.txt
+# If you want to use the source codes then put it in requirements.txt. 
+# If you want to run tests on source codes then put it in requirements_dev.txt
+
+flake8==3.9.2
+tox==3.24.5
+pytest==6.2.5
+pytest-cov==2.12.1
+mypy===0.910
